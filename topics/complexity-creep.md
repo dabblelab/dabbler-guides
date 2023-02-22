@@ -1,4 +1,4 @@
-## Complexity Creep
+# Complexity Creep
 
 Complexity creep is the tendency for a system or process to become increasingly complex over time due to the accumulation of additional features, tasks, and other elements. This usually happens as a result of the need to accommodate new requirements or changes in the system or process. As complexity increases, it can become more difficult to maintain and manage the system, leading to inefficiencies and potential problems.
 
